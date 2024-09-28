@@ -1,0 +1,40 @@
+* {
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: < weight>;
+    font-style:normal;
+}
+
+.banner {
+    background-image: url(whitepaperbanner.jpg);
+    background-size: cover;
+    padding: 250px 0;
+}
+.para{
+    word-spacing: 6px;
+
+}
+.about{
+    word-spacing: 10px;
+    margin-left:0px;
+    margin-top:70px;
+    font-size: 20px;
+   
+}
+.abt{
+   
+    margin-left:25px;
+  
+}
+.abtimg{
+    margin-left: 215px;
+    
+}
+.wabt:hover {
+    background-color: 	#25D366;
+  }
+.icon{
+    font-size:20px;
+    padding-left: 15px;
+    margin-top:5;
+}
